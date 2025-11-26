@@ -166,3 +166,52 @@ service postgresql status
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
 psql --username=freecodecamp --dbname=postgres
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/bin/linux-x64/1e3c50d64110be466c0b4a45222e81d2c9352888/node' -p '"9dbe68ec4c20" + JSON.stringify(process.env) + "9dbe68ec4c20"'
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+service postgresql status
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+sudo service postgresql start
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+\l
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+service postgresql status
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp --dbname=postgr
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp --dbname=postgre
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp --dbname=postgres
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/bin/linux-x64/1e3c50d64110be466c0b4a45222e81d2c9352888/node' -p '"2b21f5cab689" + JSON.stringify(process.env) + "2b21f5cab689"'
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+service postgresql status
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+sudo service postgresql start
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+service postgresql status
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+\l
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp --dbname=postgres
