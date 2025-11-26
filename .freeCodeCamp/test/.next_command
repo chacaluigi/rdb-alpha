@@ -245,3 +245,13 @@ history -a
 git log
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+git branch
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git branch -M main
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
